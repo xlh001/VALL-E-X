@@ -16,7 +16,7 @@ jieba
 eng_to_ipa
 openai-whisper
 matplotlib
-gradio==4.36.0
+gradio==4.44.0
 nltk
 sudachipy
 sudachidict_core
